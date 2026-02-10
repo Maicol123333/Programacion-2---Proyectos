@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\school_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\school_entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\communitymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\communitymembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\tarea 1\\tarea 1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7404F88-52AB-F1E1-E8FE-7614DE25E5B2}|Tarea 1\\Tarea 1.csproj|solutionrelative:tarea 1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 159,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Administrator.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\Administrator.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Administrator.cs",
+              "RelativeToolTip": "Tarea 1\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:08:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Teacher.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\Teacher.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Teacher.cs",
+              "RelativeToolTip": "Tarea 1\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:06:35.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Student.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\Student.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Student.cs",
+              "RelativeToolTip": "Tarea 1\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:03:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Employee.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\Employee.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Employee.cs",
+              "RelativeToolTip": "Tarea 1\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:56:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "communitymembers.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\communitymembers.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\communitymembers.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\communitymembers.cs",
+              "RelativeToolTip": "Tarea 1\\communitymembers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:50:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "school_entity.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\school_entity.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\school_entity.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\school_entity.cs",
+              "RelativeToolTip": "Tarea 1\\school_entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:45:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Program.cs",
+              "RelativeDocumentMoniker": "Tarea 1\\Program.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Tarea 1\\Tarea 1\\Program.cs*",
+              "RelativeToolTip": "Tarea 1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:43:12.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
