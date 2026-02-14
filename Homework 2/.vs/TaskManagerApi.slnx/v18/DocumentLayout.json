@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\controllers\\task controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\controllers\\task controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\models\\entity\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\models\\entity\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\data\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\data\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\taskmanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\migrations\\20260213215407_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\migrations\\20260213215407_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\models\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\models\\dtos\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\models\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|c:\\programacion 2 - tareas\\programacion-2---proyectos\\homework 2\\homework 2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489824DA-EF0E-49DE-0B6D-B996877AA688}|Homework 2\\TaskManagerApi.csproj|solutionrelative:homework 2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 110,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task Controller.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Controllers\\Task Controller.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Controllers\\Task Controller.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Controllers\\Task Controller.cs",
+              "RelativeToolTip": "Homework 2\\Controllers\\Task Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T22:14:02.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManagerApi",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\TaskManagerApi.csproj",
+              "RelativeDocumentMoniker": "Homework 2\\TaskManagerApi.csproj",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\TaskManagerApi.csproj",
+              "RelativeToolTip": "Homework 2\\TaskManagerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T21:57:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260213215407_InitDb.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Migrations\\20260213215407_InitDb.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Migrations\\20260213215407_InitDb.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Migrations\\20260213215407_InitDb.cs",
+              "RelativeToolTip": "Homework 2\\Migrations\\20260213215407_InitDb.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:54:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\appsettings.json",
+              "RelativeDocumentMoniker": "Homework 2\\appsettings.json",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\appsettings.json",
+              "RelativeToolTip": "Homework 2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-13T21:03:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Data\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Data\\TaskManagerContext.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Data\\TaskManagerContext.cs",
+              "RelativeToolTip": "Homework 2\\Data\\TaskManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T03:12:54.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Models\\Dtos\\TaskDto.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\TaskDto.cs",
+              "RelativeToolTip": "Homework 2\\Models\\Dtos\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T03:02:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Models\\Dtos\\UpdateTaskDto.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Homework 2\\Models\\Dtos\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:56:59.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTaskDto.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\CreateTaskDto.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Models\\Dtos\\CreateTaskDto.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Dtos\\CreateTaskDto.cs",
+              "RelativeToolTip": "Homework 2\\Models\\Dtos\\CreateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:50:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Entity\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Models\\Entity\\TaskItem.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Models\\Entity\\TaskItem.cs",
+              "RelativeToolTip": "Homework 2\\Models\\Entity\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:34:19.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Homework 2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:35:25.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Program.cs",
+              "RelativeDocumentMoniker": "Homework 2\\Program.cs",
+              "ToolTip": "C:\\Programacion 2 - Tareas\\Programacion-2---Proyectos\\Homework 2\\Homework 2\\Program.cs",
+              "RelativeToolTip": "Homework 2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T01:26:23.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
